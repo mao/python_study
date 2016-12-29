@@ -1,7 +1,8 @@
 active = True
 
 while active:
-    input_arg = input_arg('How old are you?\t')
+    input_arg = ''
+    input_arg = input('How old are you?\t')
     if input_arg == 'quit':
         active = False
         continue
