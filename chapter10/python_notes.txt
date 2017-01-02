@@ -1,0 +1,5 @@
+In Python you can read file.
+In Python you can define class.
+In Python you can calculate.
+In Python you can process strings.
+In Python you can write file.
